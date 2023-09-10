@@ -4,7 +4,7 @@
 [![Java Version](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com)
 [![Build Status](https://travis-ci.org/yourusername/your-repo.svg?branch=master)](https://travis-ci.org/yourusername/your-repo)
 
-Welcome to [JavaVerse] – Your One-Stop Destination for Java Excellence! 🚀
+Welcome to JavaVerse – Your One-Stop Destination for Java Excellence! 🚀
 
 ## Table of Contents
 
