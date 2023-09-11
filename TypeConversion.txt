@@ -1,0 +1,4 @@
+Conversion happesn when:
+a.type compatible
+b.destination type > source type
+

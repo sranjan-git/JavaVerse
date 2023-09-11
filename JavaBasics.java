@@ -3,9 +3,11 @@ public class JavaBasics{
         
         //java code
         System.out.println("Hello Shaurya!");
+        System.out.println("Hello Shaurya!");
+        System.out.println("Hello Shaurya!");
         
 
     }
-}
+} 
 
 //boilerplate code (template)
