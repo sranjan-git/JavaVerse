@@ -5,7 +5,7 @@ public class a{
         int counter = 0;
         while(counter<100){
             System.out.println("Hello World!");
-            counter++;
+            counter++; 
             
         }
         System.out.println("We printed HW 100 times.");
